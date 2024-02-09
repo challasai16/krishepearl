@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230.91 230.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ce2128;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #f6dcc4;
+      }
+
+      .cls-3 {
+        font-family: RupeeForadian, 'Rupee Foradian';
+        font-size: 144.6px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="115.46" cy="115.46" r="115.46"/>
+  <g>
+    <path class="cls-2" d="m115.45,204.46c-49.08,0-89-39.93-89-89S66.38,26.45,115.45,26.45s89,39.93,89,89-39.93,89-89,89Zm0-169.87c-44.59,0-80.87,36.28-80.87,80.87s36.28,80.87,80.87,80.87,80.87-36.28,80.87-80.87-36.28-80.87-80.87-80.87Z"/>
+    <rect class="cls-2" x="110.06" y="29.7" width="8.13" height="173.4" transform="translate(-36.88 177.79) rotate(-67.69)"/>
+  </g>
+  <text class="cls-3" transform="translate(80.67 173.55)"><tspan x="0" y="0">`</tspan></text>
+</svg>
